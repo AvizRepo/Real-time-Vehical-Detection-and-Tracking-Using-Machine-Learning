@@ -36,7 +36,7 @@ What's amazing is that each cell of the HOG looks similar to the edges produced 
 
 ## Preview
 
-![App Screenshot](https://github.com/akhilesh-k/Lane-and-Vehicles-Detection/blob/master/out.gif")
+![App Screenshot](https://github.com/akhilesh-k/Lane-and-Vehicles-Detection/blob/master/out.gif)
 
 ## 🛠 Skills And Tools Required
 #### S/W Requirements
